@@ -1,5 +1,5 @@
 # 💫 About Me:
-👦 Senior frontend developer/consult<br>🧠 4+ years of experience<br>🏆 Hackathons winner<br>👨‍🎓 Bachelor's Degree in Applied Computer Science
+👦 Senior frontend developer/consult<br>🧠 5+ years of experience<br>🏆 Hackathons winner<br>👨‍🎓 Bachelor's and Master's Degree in Applied Computer Science
 
 
 # 💻 Tech Stack:
